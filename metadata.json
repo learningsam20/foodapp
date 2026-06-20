@@ -1,0 +1,8 @@
+{
+  "name": "Remix: FoodFixv1",
+  "description": "A polished, modern food delivery application interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
